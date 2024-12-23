@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "1",
+      "title": "Station 1",
+      "subtitle": "Local FM Station",
+      "stream": "http://139.135.133.98:88/broadwave.mp3",
+      "image": "https://example.com/station1-logo.png"
+    },
+    {
+      "_id": "2",
+      "title": "Station 2",
+      "subtitle": "International Radio",
+      "stream": "https://us1.amfmph.com/ssl/y101cebu?mp=/stream",
+      "image": "https://example.com/station2-logo.png"
+    },
+    {
+      "_id": "3",
+      "title": "Station 3",
+      "subtitle": "Classic Hits",
+      "stream": "https://example.com/stream3.mp3",
+      "image": "https://example.com/station3-logo.png"
+    }
+  ]
+  
