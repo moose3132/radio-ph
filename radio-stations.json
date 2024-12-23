@@ -15,10 +15,10 @@
     },
     {
       "_id": "3",
-      "title": "Wish 107.5",
+      "title": "IFM (Manila)",
       "subtitle": "Manila, Philippines",
-      "stream": "https://radio.wish1075.com/web/stream/wish.m3u8",
-      "image": "https://example.com/station3-logo.png"
+      "stream": "https://magic.radioca.st/stream/1/",
+      "image": "https://cdn.instant.audio/images/logos/radio-org-ph/ifm-manila.png"
     }
   ]
   
