@@ -34,6 +34,13 @@
       "stream": "https://gensanstream.brigadanews.ph/",
       "image": "https://cdn.instant.audio/images/logos/radio-org-ph/bnfm-gensan.png"
     },
+    {
+      "_id": "5",
+      "title": "Brigada News FM Koronadal",
+      "subtitle": "Koronadal City, Philippines",
+      "stream": "https://koronadalstream.brigadanews.ph/",
+      "image": "https://cdn.instant.audio/images/logos/radio-org-ph/bnfm-gensan.png"
+    },
       {
       "_id": "6",
       "title": "Love Radio",
